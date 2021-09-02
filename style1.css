@@ -1,0 +1,52 @@
+body{
+    background: url('image.jpg');
+    background-position: left;
+    background-repeat: no-repeat;
+}
+form{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: 0px 0px 0px 430px;
+    padding: 35px 24px 24px 27px;
+    
+}
+h2{
+    font-size: 50px;
+    color: white;
+    margin: 95px 0px 0px 0px;
+}
+
+h4{
+    font-size: 20px;
+    color: white;
+    margin: 20px 10px 0px 5px;
+}
+
+input{
+    padding: 10px;
+    margin: 12px;
+    width: 300px;
+}
+.btns{
+    margin-top: 10px;
+    height: 35px;
+    width: 115px;
+   color: white;
+    font-size: 20px;
+    background-color:rgb(95, 211, 95);
+    border: none;
+    border-radius: 5px;
+}
+.btns:hover{
+    cursor: pointer;
+}
+a{
+    font-size: 20px;
+}
+#check input{
+    margin: -140px;
+}
+#check label{
+    color: white;
+}
